@@ -19,4 +19,4 @@ This project is a GUI-based Temperature Converter built using Python and Tkinter
    python task1b.py
 
 ## 👩‍💻 Author
-Ganvi
+Ganavi
